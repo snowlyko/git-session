@@ -1,3 +1,4 @@
 # git-session contributers
 
-- Suryanarayan K S 
+- Salman
+- ellam sheri avum
